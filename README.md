@@ -1,4 +1,4 @@
-# Hi there, I'm Bharti! 👋
+# Hi there, I'm Bharti Jayprakash! 👋
 
 - 👀 I’m interested in problem solving, Web Development. I have learned C++, Java, Python, and have an interest in AI and ML. Currently working on projects for Web Development and also working on real-world projects in ML.
 - 🌱 I’m currently learning JavaScript and other topics in Web Development. Solving DSA problems in C++ on LeetCode, GeeksforGeeks, and HackerRank.
