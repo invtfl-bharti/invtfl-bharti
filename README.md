@@ -68,22 +68,6 @@ Here’s a detailed breakdown of the tools and technologies I use to bring ideas
 
 ---
 
-## ✨ What Sets Me Apart  
-
-- 🖼️ **Attention to Detail**: I don’t just code—I craft. Every project I work on is meticulously designed and well-documented for maximum usability.  
-- 🌟 **Passion for UI/UX**: I strive to create visually appealing designs while ensuring functionality and accessibility.  
-- 📚 **Continuous Learning**: From solving complex algorithms to exploring new tools, I’m always leveling up my skill set.  
-- 🌍 **Impact-Driven**: I aim to create projects that solve real-world problems and make a difference.  
-
----
-
-## 🎉 Fun Facts About Me  
-
-- 🌈 I combine creativity and logic to design user-friendly interfaces and robust backend systems.  
-- 🧠 I often experiment with AI tools like ChatGPT to optimize workflows and generate innovative ideas.  
-- 🌟 I take pride in **clean code**, thorough documentation, and a detail-oriented approach to development.  
-
----
 
 ## 🌐 Let’s Connect  
 
@@ -95,17 +79,6 @@ I’d love to hear from you! Whether it’s for collaboration, mentorship, or ju
 
 ---
 
-## 📂 Featured Projects  
-
-Here are some of the projects I’ve worked on. You can explore them in detail by visiting my repositories:  
-
-1. **SevaSathi**: A service platform connecting users with local workers (electricians, plumbers, carpenters) in real-time. Includes tracking, ratings, and seamless payment options.  
-2. **Garbage Detection System**: A machine learning model that detects garbage exceeding specified limits via user-uploaded images and notifies collectors to ensure timely disposal.  
-3. **Reactfolio**: A personal portfolio built using React.js, showcasing animations, responsive design, and seamless navigation.  
-
-Check out more on my [GitHub Repositories](https://github.com/invtfl-bharti).
-
----
 
 ## ⭐️ Support My Work  
 
