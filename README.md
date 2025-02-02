@@ -62,7 +62,7 @@ Here’s a detailed breakdown of the tools and technologies I use to bring ideas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,tailwind,cpp,python,java,git,github,vscode,html,css,nextjs,mongoose,npm" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,tailwind,cpp,python,java,git,github,vscode,html,css,nextjs,npm" alt="Tech Stack" />
   </a>
 </p>
 
